@@ -1,3 +1,32 @@
+/* TAG SELECTORS */
+
 body {
-    background-color: blue;
+    margin: 0px;
+}
+
+div {
+    /* padding: 20px;
+    margin: 10px; */
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+/* CLASS SELECTORS */
+
+.top-container {
+    background-color: #C2DED1;
+}
+
+.middle-container {
+    background-color: #ECE5C7;
+    height: 200px;
+    width: 200px;
+}
+
+.bottom-container {
+    background-color: #354259;
+    height: 200px;
+    width: 200px;
 }
